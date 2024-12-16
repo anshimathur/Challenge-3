@@ -6,15 +6,13 @@ The goal of this project is to design and implement a modular **Banking System**
 - Calculate and display interest earned for both **Savings** and **Certificate of Deposit (CD)** accounts.
 - Provide a user-friendly interface for real-time interaction and account management.
 
----
 
 ## **Problem/Question**
-How can we create a simple, modular banking system using object-oriented programming that:
+How can we create a simple, modular banking system using object-oriented programming (OOP) that:
 1. Accurately calculates interest for multiple account types.
 2. Allows for easy scalability and maintainability.
 3. Ensures clear and consistent user interaction while managing account data.
 
----
 
 ## **Unique or Interesting Observations**
 During development, we discovered the following:
@@ -22,13 +20,18 @@ During development, we discovered the following:
 - **Interest calculation nuances**: Using annual interest rates required careful conversion for monthly calculations.
 - **Object-oriented design**: Centralizing shared functionality in a base `Account` class significantly improved code clarity and reduced redundancy.
 
----
+## **Conclusion**
+This project demonstrates how modular and object-oriented programming can solve real-world problems in a scalable and maintainable manner. 
+The design principles applied here provide a strong foundation for future enhancements, such as:
+- *Adding more account types like loans or checking accounts.*
+- *Integrating error handling and validations.*
+- *Expanding the system with a database to manage multiple users.*
 
-## **How to Download and Run the Repository**
-> *Note: Detailed steps to run the repository are not necessary yet but will be included in the future.*
+## **Resources**
+- Python Documentation
+- GitHub Markdown Guide
+- AI Bootcamp Slides and Activities
+- Tutoring
+- Google
+- Open AI
 
-1. **Clone the Repository**:
-   Use the following command to clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/banking-system.git
-readme
