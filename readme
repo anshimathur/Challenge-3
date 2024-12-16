@@ -1,1 +1,34 @@
-111
+# **Banking System Project**
+
+## **Goal**
+The goal of this project is to design and implement a modular **Banking System** that enables users to:
+- Manage their bank account balances effectively.
+- Calculate and display interest earned for both **Savings** and **Certificate of Deposit (CD)** accounts.
+- Provide a user-friendly interface for real-time interaction and account management.
+
+---
+
+## **Problem/Question**
+How can we create a simple, modular banking system using object-oriented programming that:
+1. Accurately calculates interest for multiple account types.
+2. Allows for easy scalability and maintainability.
+3. Ensures clear and consistent user interaction while managing account data.
+
+---
+
+## **Unique or Interesting Observations**
+During development, we discovered the following:
+- **Scalability through modularity**: Breaking the code into smaller modules for each account type (Savings and CD) helped reduce complexity and improve reusability.
+- **Interest calculation nuances**: Using annual interest rates required careful conversion for monthly calculations.
+- **Object-oriented design**: Centralizing shared functionality in a base `Account` class significantly improved code clarity and reduced redundancy.
+
+---
+
+## **How to Download and Run the Repository**
+> *Note: Detailed steps to run the repository are not necessary yet but will be included in the future.*
+
+1. **Clone the Repository**:
+   Use the following command to clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/your-username/banking-system.git
+readme
