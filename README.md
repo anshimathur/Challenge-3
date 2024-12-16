@@ -15,7 +15,7 @@ How can we create a simple, modular banking system using object-oriented program
 
 
 ## **Unique or Interesting Observations**
-During development, we discovered the following:
+During development, the following was discovered:
 - **Scalability through modularity**: Breaking the code into smaller modules for each account type (Savings and CD) helped reduce complexity and improve reusability.
 - **Interest calculation nuances**: Using annual interest rates required careful conversion for monthly calculations.
 - **Object-oriented design**: Centralizing shared functionality in a base `Account` class significantly improved code clarity and reduced redundancy.
